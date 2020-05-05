@@ -1,0 +1,34 @@
+* Dart es un lenguaje que esta creado por google y es la base de algunos frameworks como flutter.
+
+* sin main no funciona
+*todo es un objeto
+*si requiere punto y coma
+*tipado estatico
+para enteros:
+*valor por defecto = null
+
+para strings:
+
+* comillas sencillas y dobles tienen igual validez
+* se recomienda comilla sencilla
+*para multilinea se puede auxiliar de triple comilla simple ''' 
+	Texto
+''';
+
+booleanos:
+
+*si no se inicializa, tiene el valor de null.
+
+listas:
+*puedes combinar tipos de datos dentro de una misma lista 
+sin hacer asignacion estricta
+
+sets:
+* no permite valores duplicados
+
+* es case sensitive
+
+maps:
+
+
+
